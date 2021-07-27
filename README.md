@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-C-Project
+# Tic-Tac-Toe C++ Project
